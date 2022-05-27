@@ -150,6 +150,7 @@ function html(current_drive_order = 0, model = {}) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
+  <link rel="icon" type="image/png" sizes="32x32" href="https://i.imgur.com/rOyuGjA.gif">
   <title>${authConfig.siteName}</title>
   <style>
     @import url(${themeOptions.cdn}@${themeOptions.version}/dist/style.css);
